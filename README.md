@@ -1,4 +1,4 @@
-#  [![Build Status](https://secure.travis-ci.org/helyesa@gmail.com/tabnode.png?branch=master)](http://travis-ci.org/helyesa@gmail.com/tabnode)
+#  [![Build Status](https://secure.travis-ci.org/helyes/tabnode.png?branch=master)](http://travis-ci.org/helyes/tabnode)
 
 > Simple divident calculator
 
