@@ -1,0 +1,6 @@
+W:3:5 # $5 bet on horse 3 to win
+W:1:9 # $9 bet on horse 1 to win
+P:2:10 # $10 bet on horse 2 to come 1st, 2nd or 3rd
+E:5,7:15 # $15 bet on horses 5 and 7 to come first and second, in THAT order
+Q:3,9:20 # $20 bet on horses 3 and 9 to come first and second, in ANY order
+Q:9,3:30 # $30 bet on horses 3 and 9 to come first and second, in ANY order

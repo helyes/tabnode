@@ -1,0 +1,40 @@
+{
+  "name": "tabnode",
+  "version": "0.1.0",
+  "description": "Tab divident calculator demo",
+  "author": {
+    "name": "Andras Helyes",
+    "email": "helyesa@gmail.com.com"
+  },
+  "repository": "helyesa@gmail.com/tabnode",
+  "license": "MIT",
+  "files": [
+    "index.js",
+    "cli.js"
+  ],
+  "keywords": [
+    "tabnode"
+  ],
+  "dependencies": {
+    "line-by-line": "^0.1.3",
+    "meow": "^2.0.0",
+    "q": "^1.1.2"
+  },
+  "devDependencies": {
+    "grunt-cli": "^0.1.13",
+    "grunt-contrib-jshint": "^0.10.0",
+    "grunt-contrib-nodeunit": "^0.4.1",
+    "grunt-contrib-watch": "^0.6.1",
+    "grunt-mocha-cli": "^1.11.0",
+    "jshint-stylish": "^1.0.0",
+    "load-grunt-tasks": "^1.0.0",
+    "should": "^4.3.0",
+    "time-grunt": "^1.0.0"
+  },
+  "scripts": {
+    "test": "grunt"
+  },
+  "bin": {
+    "tabnode": "cli.js"
+  }
+}
