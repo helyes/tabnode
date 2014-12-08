@@ -1,6 +1,6 @@
 #  [![Build Status](https://secure.travis-ci.org/helyesa@gmail.com/tabnode.png?branch=master)](http://travis-ci.org/helyesa@gmail.com/tabnode)
 
-> Tab calculator
+> Simple divident calculator
 
 
 ## Install
