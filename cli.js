@@ -6,10 +6,10 @@ var tabnode = require('./');
 var cli = meow({
     help: [
         'Usage',
-        'node cli.js <input> <result>',
+        'tabnode <input> <result>',
         '',
         'Example',
-        'node cli.js bets.txt R:2:3:1:'
+        'tabnode bets.txt R:2:3:1:4'
     ].join('\n')
 });
 

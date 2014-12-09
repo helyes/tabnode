@@ -6,7 +6,7 @@
 ## Install
 
 ```sh
-$ npm install --save tabnode
+$ npm install --save helyes/tabnode
 ```
 
 
@@ -20,8 +20,9 @@ tabnode.calculateDividends(<file>, <result>)
 ```
 
 ```sh
-$ npm install --global tabnode
+$ npm install --global helyes/tabnode
 $ tabnode --help
+
 ```
 
 
