@@ -6,7 +6,7 @@
     "name": "Andras Helyes",
     "email": "helyesa@gmail.com.com"
   },
-  "repository": "helyesa@gmail.com/tabnode",
+  "repository": "helyes/tabnode",
   "license": "MIT",
   "files": [
     "index.js",
